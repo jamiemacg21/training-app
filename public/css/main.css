@@ -1,8 +1,25 @@
-.body {
+
+.main-page {
+
+	padding: 10px;
+	
+	border-style: solid;
+	border-width: 2px;
+	width: 450px;
+	display:inline-block;
+	border-radius: 15px;
+}
+
+#courses {
+	padding: 5px;
+
+}
+
+.content-container {
 	text-align: center;
 }
 
-.main-page {
-	text-align: center;
+.center-wrapper {
+	margin-auto;
 }
 
